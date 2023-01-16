@@ -4,3 +4,4 @@
 ## Evalueren
 ## Communicatie
 ## Literatuuronderzoek
+git add Lito-thuisbatterijen.pdf
