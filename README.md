@@ -4,4 +4,4 @@
 ## Evalueren
 ## Communicatie
 ## Literatuuronderzoek
-git add Lito-thuisbatterijen.pdf
+https://github.com/NourGithub967/Nour-portfolio/blob/main/Lito%20thuisbatterijen.pdf
