@@ -1,6 +1,6 @@
 # Nour-portfolio
-# Data voorbereiden
+## Data voorbereiden
 ## Voorspelmodellen maken
-### Evalueren
-#### Communicatie
-##### Literatuuronderzoek
+## Evalueren
+## Communicatie
+## Literatuuronderzoek
