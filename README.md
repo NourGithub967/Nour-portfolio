@@ -2,8 +2,8 @@
 ## Predictive Analytics
 ## Domain Knowledge
 ### Literatuuronderzoek
-Voor dit onderzoek waren wij van plan om uiteindelijk het optimale batterijgrootte te bepalen. Daarvoor heb ik dus een literatuuronderzoek gedaan naar de thuisbatterijen.
-https://github.com/NourGithub967/Nour-portfolio/blob/main/Lito%20thuisbatterijen.pdf
+Voor dit onderzoek waren wij van plan om uiteindelijk de optimale batterijgrootte te bepalen. Daarvoor heb ik dus een [literatuuronderzoek] (https://github.com/NourGithub967/Nour-portfolio/blob/main/Lito%20thuisbatterijen.pdf) gedaan naar de thuisbatterijen.
+
 ## Data preprocessing
 ## Communication
 ### 1. Het maken van de powerpoints voor de interne presentaties
