@@ -4,7 +4,7 @@
 ## Predictive Analytics
 [Regressie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.ipynb) <br />
 [LSTM](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch.ipynb) <br />
-[Classificatie modellen]()
+[Classificatie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.ipynb)
 
 ## Domain Knowledge
 ### Literatuuronderzoek
