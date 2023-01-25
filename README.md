@@ -2,11 +2,11 @@
 ## 1. Research Project
 []()
 ## 2. Predictive Analytics
-#### 2.1. Regressie modellen:
+#### 2.1. Regressie modellen
 [Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(2).ipynb), in case dat jupyter niet geopend wordt [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(1).pdf) <br />
-#### 2.2. LSTM:
+#### 2.2. LSTM
 [Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch.ipynb), of [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch%20(1).pdf) <br />
-#### 2.3. Classificatie modellen:
+#### 2.3. Classificatie modellen
 [Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.ipynb), of [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.pdf)
 
 ## 3. Domain Knowledge
