@@ -1,27 +1,29 @@
 # Nour-portfolio
-## Research Project
-[
-## Predictive Analytics
-[Regressie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(2).ipynb), in case dat jupyter niet geopend wordt [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(1).pdf) <br />
-[LSTM](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch.ipynb), of [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch%20(1).pdf) <br />
-[Classificatie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.ipynb), [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.pdf)
+## 1. Research Project
+[]()
+## 2. Predictive Analytics
+#### 2.1. Regressie modellen:
+[Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(2).ipynb), in case dat jupyter niet geopend wordt [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(1).pdf) <br />
+#### 2.2. LSTM:
+[Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch.ipynb), of [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch%20(1).pdf) <br />
+#### 2.3. Classificatie modellen:
+[Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.ipynb), of [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.pdf)
 
-## Domain Knowledge
-### Literatuuronderzoek
+## 3. Domain Knowledge
+#### Literatuuronderzoek
 Voor dit onderzoek waren wij van plan om uiteindelijk de optimale batterijgrootte te bepalen. Daarvoor heb ik dus een [literatuuronderzoek](https://github.com/NourGithub967/Nour-portfolio/blob/main/Lito%20thuisbatterijen.pdf) gedaan naar de thuisbatterijen.
 
-## Data preprocessing
+## 4. Data preprocessing
 Link naar [Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/preprocessing.ipynb), of [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/preprocessing.pdf)
-## Communication
-### 1. Het maken van de powerpoints voor de interne presentaties
+## 5. Communication
+#### 5.1. Het maken van de powerpoints voor de interne presentaties
 Ik heb een paar powerpoints in elkaar gezet voor de interne presentaties. [Week 4](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week%204%20(19-9).pdf), [week 6](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week6.pdf), [week 12](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week%2012%20Energy%20project%20(1).pdf) en [week 16](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week%2016.pdf) <br />
 note: bij presentatie 'week6' heeft Senna een paar wijzigingen gebracht, zij heeft dus ook meegedaan.
 
-### 2. Het schrijven van de paper
-Ik heb het stukje over 'Linear Regression' en 'Aanbevelingen' geschreven. Daarnaast heb ik ook de resultaten en de analyses van het model geschreven. <br />
-Link naar [de paper](https://github.com/NourGithub967/Nour-portfolio/blob/main/Minor%20ADS%20Energy%20in%20transition%20Groep%203.pdf)
+#### 5.2. Het schrijven van de paper
+Ik heb het stukje over 'Linear Regression' en 'Aanbevelingen' geschreven. Daarnaast heb ik ook de resultaten en de analyses van het model geschreven. Link naar [de paper](https://github.com/NourGithub967/Nour-portfolio/blob/main/Minor%20ADS%20Energy%20in%20transition%20Groep%203.pdf)
 
-## Datacamp Courses
+## 6. Datacamp Courses
 Hieronder zijn de gemaakte 'DataCamp Couses' <br />
 - [Introduction to Python](https://github.com/NourGithub967/Nour-portfolio/blob/main/datacamp%20introduction%20to%20python.pdf) <br />
 - [Intermediate Python](https://github.com/NourGithub967/Nour-portfolio/blob/main/datacamp%20Intermediate%20Python.pdf) <br />
