@@ -1,6 +1,6 @@
 # Nour-portfolio
 ## 1. Research Project
-[]()
+Link naar [Research Project](https://github.com/NourGithub967/Nour-portfolio/blob/main/Research%20Project%20ADS%20minor%20Nour%20Albrzawi.pdf)
 ## 2. Predictive Analytics
 #### 2.1. Regressie modellen
 [Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(2).ipynb), in case dat jupyter niet geopend wordt [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(1).pdf) <br />
