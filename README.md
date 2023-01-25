@@ -21,7 +21,7 @@ Ik heb een paar powerpoints in elkaar gezet voor de interne presentaties. [Week 
 note: bij presentatie 'week6' heeft Senna een paar wijzigingen gebracht, zij heeft dus ook meegedaan.
 
 #### 5.2. Het schrijven van de paper
-Ik heb het stukje over 'Linear Regression' en 'Aanbevelingen' geschreven. Daarnaast heb ik ook de resultaten en de analyses van het model geschreven. Link naar [de paper](https://github.com/NourGithub967/Nour-portfolio/blob/main/Minor%20ADS%20Energy%20in%20transition%20Groep%203.pdf)
+Ik heb het stukje over 'Linear Regression' en 'Aanbevelingen' geschreven. Link naar [de paper](https://github.com/NourGithub967/Nour-portfolio/blob/main/Minor%20ADS%20Energy%20in%20transition%20Groep%203.pdf)
 
 ## 6. Datacamp Courses
 Hieronder zijn de gemaakte 'DataCamp Couses' <br />
