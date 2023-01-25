@@ -18,7 +18,7 @@ Link naar [Jupyter notebook](https://github.com/NourGithub967/Nour-portfolio/blo
 ## 5. Communication
 #### 5.1. Het maken van de powerpoints voor de interne presentaties
 Ik heb een paar powerpoints in elkaar gezet voor de interne presentaties. [Week 4](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week%204%20(19-9).pdf), [week 6](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week6.pdf), [week 12](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week%2012%20Energy%20project%20(1).pdf) en [week 16](https://github.com/NourGithub967/Nour-portfolio/blob/main/Week%2016.pdf) <br />
-note: bij presentatie 'week6' heeft Senna een paar wijzigingen gebracht, zij heeft dus ook meegedaan.
+*Note:* in presentatie 'week6' heeft Senna wijzigingen aangebracht, zij heeft dus ook meegedaan.
 
 #### 5.2. Het schrijven van de paper
 Ik heb het stukje over 'Linear Regression' en 'Aanbevelingen' geschreven. Link naar [de paper](https://github.com/NourGithub967/Nour-portfolio/blob/main/Minor%20ADS%20Energy%20in%20transition%20Groep%203.pdf)
