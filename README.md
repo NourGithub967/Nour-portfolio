@@ -2,7 +2,7 @@
 ## Research Project
 
 ## Predictive Analytics
-[Regressie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(1).ipynb) <br />
+[Regressie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(2).ipynb), in case dat jupyter niet geopend wordt [pdf-format](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2%20(1).pdf) <br />
 [LSTM](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour%20LSTM%20PyTorch.ipynb) <br />
 [Classificatie modellen](https://github.com/NourGithub967/Nour-portfolio/blob/main/Nour2.foodboost.ipynb)
 
